@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst & Data Engineer....
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...Data Analyst & Data engineer roles
-- 📫 How to reach me ...kashivojjalasaisuhas@gmail.com
+- 📫 You can reach me ...kashivojjalasaisuhas@gmail.com
 
 <!---
 suhasyan/suhasyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
